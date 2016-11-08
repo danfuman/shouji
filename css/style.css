@@ -22,8 +22,8 @@ body,html{height:100%;_margin-right:-3px;}
 
 #home .qxxl h1{font-size: 21px;color:#fff;text-align: center;line-height:50px;padding-top:20px;}
 #home .qxxl span{font-size:12px;color:#fff;text-align: center;display: block;}
-#home .btn{width: 50px;height:50px;border: 1px solid #fff;border-radius: 50%;display:block;position: absolute;bottom: 15%;left:50%;transform:translate(-50%);_position: relative;}
-#home .btn i{display: block;font-size: 28px;color:#fff;position: absolute;left:50%;transform:translate(-50%)}
+#home .btn{width: 50px;height:50px;border: 1px solid #fff;border-radius: 50%;display:block;position: absolute;bottom: 15%;left:44.5%;}
+#home .btn i{display: block;font-size: 28px;color:#fff;position: absolute;left:35%;}
 
 .nav{height:50px;position: relative;z-index: 1111;background:#fff;width:100%;}
 .nav .inner{width:90%;margin: 0 auto;}
@@ -75,7 +75,7 @@ body,html{height:100%;_margin-right:-3px;}
 #partners .img .inner{width:90%;margin: 0 auto;}
 #partners .img .ul li{width:28%;height:auto;float:left;margin: 5px;}
 #partners .img .ul li a{display: block;}
-#partners .img .ul li img{display: block;width: 100%;height:100%;}
+#partners .img .ul li img{display: block;width: 100%;height:auto;}
 
 
 .footer{text-align: center;padding:20px 0;width:100%;}
