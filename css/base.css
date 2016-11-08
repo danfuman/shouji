@@ -1,0 +1,19 @@
+/* 重置css样式  */
+*{margin: 0;padding: 0;}
+body,div,h1,h2,h3,h4,h5,h6,p,a,img,input,ul,li,video,audio,dl,dt,dd,i,b,button{margin:0;padding:0;}
+li{list-style:none;}
+a{ text-decoration:none;color:#666;}
+img,input,textarea,a,button{border:none;outline: none;}
+i{font-style: normal;}
+textarea{resize: none;}
+h1,h2,h3,h4,h5,h6,i,b{font-weight: normal;}
+img {display: block;}
+/* 公共样式 */
+html{font-size:62.5%;}
+.fl{float:left;}
+.fr{float:right;}
+body{font-family:Arabic,"微软雅黑";color:#666;}
+.clearfix:after{content:'';display:block;height:0;clear:both;}
+body,html{height:100%;}
+/*** End ***/
+
